@@ -8,17 +8,22 @@
     <td>
       <b>840Hz Script - Click Crystal (CC)</b>
       <p> This project was created to share open-source scripts related to Click Crystal (CC)</p>
-      <p>Developed by 840Hz</p>
+      <p>Developed by keehea918</p>
     </td>
   </tr>
 </table>
 
 ## 🛠 Get Start**
+> [!TIP]
+> ⚡️ This script is very simple to install
+> ```bush
+> .minecraft/.clickcrystal/scripts
+> ```
 
 **[📥 Download Click Crystal Mod 💎](https://github.com/clickcrystals-development/ClickCrystals)**   
 **[📥 Download My Script 📃](https://github.com/Keehea918/840Script/releases)**
 
-## Changelog
+## 📜 Changelog 
 
 ```yml
 Release: 1.0.1
@@ -30,7 +35,7 @@ Modules:
 - Toggle Anchor
 ```
 
-## Modules
+## ⚙️ Modules
 | **Modules**      | **Description**                                                                       |
 |:----------------:|:-------------------------------------------------------------------------------------:|
 | Fast Crystal     | Use **End Crystal** very fast whlie holding right-click.                              |
