@@ -1,0 +1,28 @@
+name: Development Build
+
+on:
+  push:
+    branches: [ "main" ]
+    paths: 
+      - '.github/workflows/build.lua'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: List build.lua
+        run: ls -l .github/workflows/build.lua
+
+      - name: Upload build.lua
+        uses: actions/upload-artifact@v4
+        with:
+          name: Development-Build
+          path: .github/workflows/build.lua
