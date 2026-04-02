@@ -62,7 +62,7 @@ Update by @Keehea918
 ## 🌐 Contect
 **Discord**    
 `Owner : 🔒 Hidden`    
-`Develoepr : @840.0hz`    
+`Develoepr : @lil.carr0t`    
 
 **GitHub**    
 **[🔮 CrystalRush](https://github.com/Keehea918/CrystalRush)**    
